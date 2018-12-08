@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+    
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>The Cayman theme | Cayman theme</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="The Cayman theme" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Cayman is a clean, responsive theme for GitHub Pages." />
+<meta property="og:description" content="Cayman is a clean, responsive theme for GitHub Pages." />
+<link rel="canonical" href="http://localhost:4000/READMEcayman.html" />
+<meta property="og:url" content="http://localhost:4000/READMEcayman.html" />
+<meta property="og:site_name" content="Cayman theme" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/READMEcayman.html","headline":"The Cayman theme","description":"Cayman is a clean, responsive theme for GitHub Pages.","@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=bf62f75d5038f74ad3a4aef72ec2154168e195ec">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Cayman theme</h1>
+      <h2 class="project-tagline">Cayman is a clean, responsive theme for GitHub Pages.</h2>
+      
+        <a href="http://github.com/haakonms/ADAwebsite" class="btn">View on GitHub</a>
+      
+      
+        <a href="http://github.com/haakonms/ADAwebsite/zipball/gh-pages" class="btn">Download .zip</a>
+        <a href="http://github.com/haakonms/ADAwebsite/tarball/gh-pages" class="btn">Download .tar.gz</a>
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1 id="the-cayman-theme">The Cayman theme</h1>
+
+<p><a href="https://travis-ci.org/pages-themes/cayman"><img src="https://travis-ci.org/pages-themes/cayman.svg?branch=master" alt="Build Status" /></a> <a href="https://badge.fury.io/rb/jekyll-theme-cayman"><img src="https://badge.fury.io/rb/jekyll-theme-cayman.svg" alt="Gem Version" /></a></p>
+
+<p><em>Cayman is a Jekyll theme for GitHub Pages. You can <a href="http://pages-themes.github.io/cayman">preview the theme to see what it looks like</a>, or even <a href="#usage">use it today</a>.</em></p>
+
+<p><img src="/thumbnail.png" alt="Thumbnail of Cayman" /></p>
+
+<h2 id="usage">Usage</h2>
+
+<p>To use the Cayman theme:</p>
+
+<ol>
+  <li>
+    <p>Add the following to your site’s <code class="highlighter-rouge">_config.yml</code>:</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="na">theme</span><span class="pi">:</span> <span class="s">jekyll-theme-cayman</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Optionally, if you’d like to preview your site on your computer, add the following to your site’s <code class="highlighter-rouge">Gemfile</code>:</p>
+
+    <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="n">gem</span> <span class="s2">"github-pages"</span><span class="p">,</span> <span class="ss">group: :jekyll_plugins</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="customizing">Customizing</h2>
+
+<h3 id="configuration-variables">Configuration variables</h3>
+
+<p>Cayman will respect the following variables, if set in your site’s <code class="highlighter-rouge">_config.yml</code>:</p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">The title of your site</span><span class="pi">]</span>
+<span class="na">description</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">A short description of your site's purpose</span><span class="pi">]</span>
+</code></pre></div></div>
+
+<p>Additionally, you may choose to set the following optional variables:</p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">show_downloads</span><span class="pi">:</span> <span class="pi">[</span><span class="s2">"</span><span class="s">true"</span> <span class="nv">or "false" to indicate whether to provide a download URL</span><span class="pi">]</span>
+<span class="na">google_analytics</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">Your Google Analytics tracking ID</span><span class="pi">]</span>
+</code></pre></div></div>
+
+<h3 id="stylesheet">Stylesheet</h3>
+
+<p>If you’d like to add your own custom styles:</p>
+
+<ol>
+  <li>Create a file called <code class="highlighter-rouge">/assets/css/style.scss</code> in your site</li>
+  <li>Add the following content to the top of the file, exactly as shown:
+    <div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="nt">---</span>
+ <span class="nt">---</span>
+
+ <span class="o">@</span><span class="nt">import</span> <span class="s2">"jekyll-theme-cayman"</span><span class="p">;</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Add any custom CSS (or Sass, including imports) you’d like immediately after the <code class="highlighter-rouge">@import</code> line</li>
+</ol>
+
+<p><em>Note: If you’d like to change the theme’s Sass variables, you must set new values before the <code class="highlighter-rouge">@import</code> line in your stylesheet.</em></p>
+
+<h3 id="layouts">Layouts</h3>
+
+<p>If you’d like to change the theme’s HTML layout:</p>
+
+<ol>
+  <li><a href="https://github.com/pages-themes/cayman/blob/master/_layouts/default.html">Copy the original template</a> from the theme’s repository<br />(<em>Pro-tip: click “raw” to make copying easier</em>)</li>
+  <li>Create a file called <code class="highlighter-rouge">/_layouts/default.html</code> in your site</li>
+  <li>Paste the default layout content copied in the first step</li>
+  <li>Customize the layout as you’d like</li>
+</ol>
+
+<h3 id="overriding-github-generated-urls">Overriding GitHub-generated URLs</h3>
+
+<p>Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you’d like to override one or more default URLs:</p>
+
+<ol>
+  <li>Look at <a href="https://github.com/pages-themes/cayman/blob/master/_layouts/default.html">the template source</a> to determine the name of the variable. It will be in the form of <code class="highlighter-rouge">http://github.com/haakonms/ADAwebsite/zipball/gh-pages</code>.</li>
+  <li>Specify the URL that you’d like the template to use in your site’s <code class="highlighter-rouge">_config.yml</code>. For example, if the variable was <code class="highlighter-rouge">site.github.url</code>, you’d add the following:
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="na">github</span><span class="pi">:</span>
+   <span class="na">zip_url</span><span class="pi">:</span> <span class="s">http://example.com/download.zip</span>
+   <span class="na">another_url</span><span class="pi">:</span> <span class="s">another value</span>
+</code></pre></div>    </div>
+  </li>
+  <li>When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.</li>
+</ol>
+
+<p><em>Note: You must remove the <code class="highlighter-rouge">site.</code> prefix, and each variable name (after the <code class="highlighter-rouge">github.</code>) should be indent with two space below <code class="highlighter-rouge">github:</code>.</em></p>
+
+<p>For more information, see <a href="https://jekyllrb.com/docs/variables/">the Jekyll variables documentation</a>.</p>
+
+<h2 id="roadmap">Roadmap</h2>
+
+<p>See the <a href="https://github.com/pages-themes/cayman/issues">open issues</a> for a list of proposed features (and known issues).</p>
+
+<h2 id="project-philosophy">Project philosophy</h2>
+
+<p>The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users’ needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>Interested in contributing to Cayman? We’d love your help. Cayman is an open source project, built one contribution at a time by users like you. See <a href="/docs/CONTRIBUTING.md">the CONTRIBUTING file</a> for instructions on how to contribute.</p>
+
+<h3 id="previewing-the-theme-locally">Previewing the theme locally</h3>
+
+<p>If you’d like to preview the theme locally (for example, in the process of proposing a change):</p>
+
+<ol>
+  <li>Clone down the theme’s repository (<code class="highlighter-rouge">git clone https://github.com/pages-themes/cayman</code>)</li>
+  <li><code class="highlighter-rouge">cd</code> into the theme’s directory</li>
+  <li>Run <code class="highlighter-rouge">script/bootstrap</code> to install the necessary dependencies</li>
+  <li>Run <code class="highlighter-rouge">bundle exec jekyll serve</code> to start the preview server</li>
+  <li>Visit <a href="http://localhost:4000"><code class="highlighter-rouge">localhost:4000</code></a> in your browser to preview the theme</li>
+</ol>
+
+<h3 id="running-tests">Running tests</h3>
+
+<p>The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run <code class="highlighter-rouge">script/cibuild</code>. You’ll need to run <code class="highlighter-rouge">script/bootstrap</code> one before the test script will work.</p>
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="http://github.com/haakonms/ADAwebsite">ADAwebsite</a> is maintained by <a href="http://github.com/haakonms">haakonms</a>.</span>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
