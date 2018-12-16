@@ -53,7 +53,7 @@ This is a table showing the numbers and percentage of different user categories 
 
 ## Trolls that so far does not have a category.
 ![Non-categorized users and likely bots](/categories/noncategorizedusers.png)
-### Non-categorized non-bots: 
+### Non-categorized regular users: 
 - Around 18,1% of all users. They do have the traits that the other categories don’t have, but this only makes them looking like normal twitter users. They are evenly distributed in terms of both total tweets and followers, but they make up the majority of total users with more than 10000 tweets and 7500 followers. This means that these users are the ones that has the most impact on the general discussion on Twitter, and reaches the broadest amount of people.
  
 - It is very likely that these are the users that are seen by IRA as the main communicators of opinions, and have a very high chance of being fully controlled by real humans, as we know a number of the users are. This [article](https://www.buzzfeednews.com/article/maxseddon/documents-show-how-russias-troll-army-hit-america)  provides insight in this claim.
