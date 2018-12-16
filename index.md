@@ -17,7 +17,7 @@ This data story consists of four pages, excluding this start page. You will be a
 
 - [How you may be able to detect some of the trolls.](./userdetect.html)
 
-Through this data story we will not provide the information of how we found things out or how we coded things. If you want a total understanding of all the processes in creating  this page or just view a bunch of code, please take a look at our [notebook](Insertlink).
+Through this data story we will not provide the information of how we found things out or how we coded things. If you want a total understanding of all the processes in creating  this page or just view a bunch of code, please take a look at our [notebook](https://github.com/haakonms/ADAproject/blob/master/Milestone3html.html).
 There we will also go through our line of thougth step-by-step.
 
 
