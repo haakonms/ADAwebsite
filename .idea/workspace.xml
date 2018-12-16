@@ -3,13 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d751a316-e4fa-4b1a-a1a0-e7079b945db9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/READMEcayman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/READMEcayman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/another-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/another-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/botdeciding.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/botdeciding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/SUPPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/SUPPORT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/generalstats.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/generalstats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/interact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/interact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/userdetect.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/userdetect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/botdeciding.md" beforeDir="false" afterPath="$PROJECT_DIR$/botdeciding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generalstats.md" beforeDir="false" afterPath="$PROJECT_DIR$/generalstats.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interact.md" beforeDir="false" afterPath="$PROJECT_DIR$/interact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userdetect.md" beforeDir="false" afterPath="$PROJECT_DIR$/userdetect.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="15">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -44,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <first_editor relative-caret-position="274">
+                <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userdetect.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -121,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="630">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -149,12 +152,12 @@
         <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/generalstats.md" />
         <option value="$PROJECT_DIR$/interact.md" />
         <option value="$PROJECT_DIR$/botdeciding.md" />
         <option value="$PROJECT_DIR$/userdetect.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -325,12 +328,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544282603533</updated>
       <workItem from="1544282605654" duration="7323000" />
-      <workItem from="1544963041215" duration="15897000" />
+      <workItem from="1544963041215" duration="16013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23220000" />
+    <option name="totallyTimeSpent" value="23336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -469,20 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/generalstats/allanguagetweetsseconddataset.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -507,16 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="322" selection-start-line="322" selection-end-line="322" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -557,6 +536,30 @@
             <caret line="78" column="68" selection-start-line="78" selection-start-column="68" selection-end-line="78" selection-end-column="68" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="274">
+            <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
         </state>
       </provider>
     </entry>
