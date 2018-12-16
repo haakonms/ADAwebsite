@@ -4,9 +4,9 @@ layout: default
 
 # How we decided the bot-like behaviour
 
-Many tweets appeared several times in the dataset. Some of them by natural causes, since users had retweeted the same tweets and users were also retweeted internally by other bots. However, an enormous amount of original content appeared multiple times.
+Many tweets appeared several times in the dataset. Some of them by natural causes, since users had retweeted the same tweets and users were retweeted internally by other bots as well. However, an enormous amount of "original" content appeared multiple times.
 
-We searched for these tweets and see how many times they appeared in the dataset and look at its content.
+We investigated these duplicated "originals", and took a closer look at how many times they appeared in the dataset.
 
 ![Cumulative distribution](/botsdeciding/originaltweetshist.png)
 
