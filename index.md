@@ -19,7 +19,10 @@ This data story consists of four pages, excluding this start page. You will be a
 
 Through this data story we will not provide the information of how we found things out or how we coded things. If you want a total understanding of all the processes in creating  this page or just view a bunch of code, please take a look at our [notebook](Insertlink).
 There we will also go through our line of thougth step-by-step.
+
+
 ***
+
 
 ## Additional information about the pages
 
