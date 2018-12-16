@@ -40,19 +40,21 @@ From August 2017 the dataset consists almost exclusively of RightTroll tweets. F
 ### Tweets per day (first dataset).
 What about the spread of tweets throughout a day? May it be possible to detect some irregularities regarding the time differences between Russia and USA? 
 ![Picture showing distribution of tweets per hour through a day](/generalstats/Tweetsperdayfirstdataset.png)
-> Here it is necessary to notice that there are four different time zones in the US, and this is following Eastern American time.
+> Notice that there are four different time zones in the US, and this is following Eastern American time.
 
-Here the Russians have done a good job in timing the tweets. The tweets follows a good frequency regarding to when people are awake, and the majority of them are posted in the evening. The amount of tweets in especially midnight and in the early morning is a bit high, compared to actual [tweet pattern through the day in the USA](https://blog.bufferapp.com/wp-content/uploads/2015/06/Buffer-social-media-science-study-US-popular-times-to-tweet-639x800.png). Regardless of this, people would probably not question this too much if some of the goals are to mimic excessively tweeting political activists, spammers or internet warriors.
+Here the Russians have done a good job in timing the tweets. The tweets follows a good frequency regarding to when people are awake, and the majority of them are posted in the evening. The amount of tweets at midnight and in the early morning is a bit high, compared to actual [tweet pattern through the day in the USA](https://blog.bufferapp.com/wp-content/uploads/2015/06/Buffer-social-media-science-study-US-popular-times-to-tweet-639x800.png). Regardless of this, people would probably not question this too much if some of the goals are to mimic excessively tweeting political activists, spammers or internet warriors.
 
 
 ## First appearances of users
-Which months that have the most tweets also need to be seen in light of how many trolls the IRA had on that time. This part will visualize when the users first appeared.
+The months that have the most tweets needs to be seen in light of how many trolls the IRA had created at that time. This part will visualize when the users first appeared.
 
 ### English users
 ![First user entries in the first dataset](/generalstats/Firstentryusersfirstdataset.png)
-We can see here that most of the users first appear in 2015, after the primaries had started, and with a little spike in the summer of 2017 with the wave of RightTroll users. _NB: Pay attention to the labels on the x-axis. Months with no introduction of new users are not included in this visualisation._
+>  _NB: Pay attention to the labels on the x-axis. Months with no introduction of new users are not included in this visualisation._
 
-Why there are almost no tweets in the first dataset before november 2014 in the timeline is because there was almost none active english troll users in that period. As we can see in the table provided under, the first entry of only ten users was registered before this time. Half of them was in the month before, and before that it looks sporadic with none users first entried in the year 2013.
+We can see here that most of the users first appear in 2015, after the primaries had started, and with a little spike in the summer of 2017 with the wave of RightTroll users.
+
+Why there are almost no tweets in the first dataset before november 2014 in the timeline is because there was almost no active english troll users in that period. As we can see in the following table, only ten users was registered before this time. Half of them were registered in the month before, and before that it looks rather sporadic with no first entried users in the year 2013.
 ![First user entries in the second dataset table](/generalstats/firstentrieduserstable.png)
 ### All users
 ![First user entries in the second dataset](/generalstats/firstuserentriessceonddataset.png)
