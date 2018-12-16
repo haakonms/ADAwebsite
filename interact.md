@@ -18,7 +18,7 @@ If you want to skip to that part, click [here](./userdetect.html).
 
 - There are a fraction of users that have tweeted in such small numbers, so the impact of them is very small. Here we can see that the more tweets the users have the more likely it is that interactions with other trolls increases as well, which is natural. 
 
-- The most interesting aspect is probably the mastodonts that have tweeted over 10000 times. These users have been interacted with by other trolls much more than interacting to trolls themselves. This is strange, given the large amount of tweets which makes it more likely to have interacted with anyone. This differs significantly from the user with between 1000 and 10000 tweets as well. In general, the higher tweet count the more even the three bars would be, as it seems that this is the natural way the relationship between the three bars evolve.
+- The most interesting aspect is probably the mastodonts that have tweeted over 10000 times. These users have been interacted with by other trolls much more than interacting to trolls themselves. This is strange, given the large amount of tweets which makes it more likely to have interacted with anyone. This differs significantly from the user with between 1000 and 10000 tweets as well. In general, the more tweets a user has, the more likely it is that the user interacts with other users. Therefore the more tweets a user has the more likely is it that it has interacted with another troll at some point.
 
 ## Cumulative distribution of how the trolls interact to other trolls
 
