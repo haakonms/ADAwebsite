@@ -67,9 +67,9 @@ All users are now more or less categorized, and some of them are possible to det
 ![Follower and tweetcount](/botsdeciding/botinteracting.png)
 * The likely bots almost have a perfectly dividing line in both followers and tweet count. Almost all of the interacting likely bots with the highest amount of followers and tweets are highly interacting bots.
 
-* This means that the likely bots that mainly interact with other users tweets an enormous part. They also have a lot of followers which we may suppose that comes from the extreme amount of interacting with other normal Twitter users. They may also have bot-like behaviour when it comes to following others. 
+* This means that the likely bots that mainly interact with other users tweets an enormous part. They also have a lot of followers, which probably comes from the extreme amount of interacting with other normal Twitter users. Given that they have a bot-like behaviour in tweeting, we suspect that they also run automatic systems to follow other users. 
 
-* The fact that he bots that mainly interact with other trolls has a small amount of followers is not surprising since they mostly don't reach out to other users and tweet in limited numbers.
+* The fact that the bots that mainly interact with other trolls have a small amount of followers is not surprising, as they mostly don't reach out to other users and tweet in limited numbers. We strongly believe that the whole point of these users is to make the other trolls seem popular, and have them gaining interactions.
 
 Detecting Twitter trolls is not an easy task, but know you have some pegs to put the different users on. Applying this in daily Twitter use will however be difficult and time-consuming. Good luck!
 
