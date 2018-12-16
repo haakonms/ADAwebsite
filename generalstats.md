@@ -7,22 +7,22 @@ layout: default
 To introduce you to the Russian Twitter trolls, this page consists of many visualizations of basic statistics. 
 How often did the trolls tweet? At which time of the day? Were they more active during the election? What is the highest amount of followers a troll has had?
 
-These questions, and more, will be answered by scrolling down.
+These questions, and more, will be answered below.
 ## Tweets over time
 
 #### English tweets.
 ![Total english tweets in the second dataset](/generalstats/totaltweetssecondset.png)
 > When comparing the two against each other, notice that the labels on the x-axis are different for each of them. There were also tweets before November 2013, but only 400 in total.
 
-The results shows that there were almost no english activity until 2014, with the first visible chart in november 2014. Activity increased in the months just before the election, peaked in december 2016 and decreased a little after that. Then there was a spike in August 2017. This was probably because of the Unite The Right rally in Charlottesville, also known as the [Charlottesville riots](https://en.wikipedia.org/wiki/Unite_the_Right_rally), where e.g. a woman got killed by a white supremacist. You can read more about the tweets from this event in this [Buzzfeed article](https://buzzfeednews.github.io/2018-08-charlottesville-twitter-trolls/).
+The results shows that there were almost no english activity until 2014, with the first visible chart in november 2013. Activity had some high peaks in early 2015, before increasing in the months just before the election. It then peaked in december 2016 and decreased a little after that. Then there was a massive spike in August 2017. This was probably because of the Unite The Right rally in Charlottesville, also known as the [Charlottesville riots](https://en.wikipedia.org/wiki/Unite_the_Right_rally), where e.g. a woman got killed by a white supremacist. You can read more about the tweets from this event in this [Buzzfeed article](https://buzzfeednews.github.io/2018-08-charlottesville-twitter-trolls/).
 
 
 #### Tweets in all languages.
 ![Total tweets in all languages in the second dataset](/generalstats/allanguages.png)
-The highest amount of tweets actually appeared in 2014. The main difference is that most of the tweets in this period are in russian. Before the english tweets really sparked off, most russian trolls tweeted in their native language. This was in the period when the Ukrainian-Russian war/military interference was often mentioned in the media. It may be that the success of the tweeting in this period also started the activity in other regions. This is only speculations, but one thing can be said for sure: The russian trolls came before the english ones. 
+The highest amount of all tweets actually appeared in 2014. The main difference is that most of the tweets in this period are in russian. Before the english tweets really sparked off, most russian trolls tweeted in their native language. This was in the period when the Ukrainian-Russian conflict was frequently in the media. It may be that the success of the tweeting in this period also started the activity in other regions. This is only speculations, but one thing can be said for sure: The russian trolls came before the english ones. 
 
 ### Before and after the primaries in US
-One of our initial research questions we wanted to check out was if things had changed from the first time a candidate announced that he or she would run for president.
+One of the initial research questions we wanted to answer was if things had changed from the first time a candidate announced that he or she would run for president.
 How did the troll activity change throughout the political timeline of the American election. We are going to look at two different time periods: Before Clinton and Trump was elected as each of the two parties candidates, and after.
 #### Before primaries
 ![Tweet distribution by category first dataset before primaries](/generalstats/Beforeprimariesfirstset.png)
