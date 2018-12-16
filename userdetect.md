@@ -45,7 +45,7 @@ This is a table showing the numbers and percentage of different user categories 
 ## Trolls that are highly interacting and mainly interact to other trolls.
 ![Highly interacting non-bots that mainly interact to trolls users and likely bots](/categories/hiahta.png)
 ### Highly interacting regular users that mainly interact to trolls: 
-- This category is an overlap of the two abovementioned categories. Around 4% of all users in the dataset are in this category, and 4 percentage points of the users are in each of the two categories Highly interacting and mainly troll-interacting users. They are pretty evenly distributed in terms of both total tweets and followers. In case of detecting these trolls, the same goes for this category as the two it overlaps. They are slightly easier to point out since they have the traits of both other categories, but unfortunately, it is still hard for a common Twitter user to detect them.
+- This category is an overlap of the two abovementioned categories. Around 4% of all users in the dataset are in this category, and 4 percentage points of the users are in each of the two categories highly interacting and mainly troll-interacting users. They are pretty evenly distributed in terms of both total tweets and followers. In case of detecting these trolls, the same goes for this category as the two it overlaps. They are slightly easier to point out since they have the traits of both other categories, but unfortunately, it is still hard for a common Twitter user to detect them.
 
 
 ### Highly interacting bots that mainly interact to trolls:
@@ -54,7 +54,7 @@ This is a table showing the numbers and percentage of different user categories 
 ## Trolls that so far does not have a category.
 ![Non-categorized users and likely bots](/categories/noncategorizedusers.png)
 ### Non-categorized regular users: 
-- Around 18,1% of all users. They do have the traits that the other categories don’t have, but this only makes them looking like normal twitter users. They are evenly distributed in terms of both total tweets and followers, but they make up the majority of total users with more than 10000 tweets and 7500 followers. This means that these users are the ones that has the most impact on the general discussion on Twitter, and reaches the broadest amount of people.
+- Around 18,1% of all users. They do have the traits that the other categories don’t have, but this only makes them seem like normal Twitter users. They are evenly distributed in terms of both total tweets and followers, but they make up the majority of total users with more than 10000 tweets and 7500 followers. This means that these users are the ones that has the most impact on the general discussion on Twitter, and reaches the broadest amount of people.
  
 - It is very likely that these are the users that are seen by IRA as the main communicators of opinions, and have a very high chance of being fully controlled by real humans, as we know a number of the users are. This [article](https://www.buzzfeednews.com/article/maxseddon/documents-show-how-russias-troll-army-hit-america)  provides insight in this claim.
 
@@ -62,6 +62,7 @@ This is a table showing the numbers and percentage of different user categories 
 ### Non-categorized bots:  
 - Around 16,4% of all users. They rarely have more than 2500 tweets but account for around a third of the users between 1000 and 2500 tweets. In terms of followers they are mostly limited to under 200, and do not exist in the group of users with over 7500 followers. Unfortunately, there is no way to detect these users except the method that applies for all bots. Search for their original content of significant length, and look for numerous duplicates.
 
+### Final thoughts
 All users are now more or less categorized, and some of them is possible to detect. What they do have in common is again their likeliness of being bots. If we look at all the categories we have created that includes bots and compare them together, we can observe an extraordinary distribution in between.
 ![Follower and tweetcount](/botsdeciding/botinteracting.png)
 * The likely bots almost has a perfectly dividing line in both followers and tweet count. Almost all of the likely bots that interact at all are mainly interacting bots. The same accounts with the bots that interact at all over 500 followers.
