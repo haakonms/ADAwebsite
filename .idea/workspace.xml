@@ -52,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/generalstats.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="56" column="367" selection-start-line="56" selection-start-column="367" selection-end-line="56" selection-end-column="367" />
+              <first_editor relative-caret-position="246">
+                <caret line="90" column="438" selection-start-line="90" selection-start-column="438" selection-end-line="90" selection-end-column="438" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,8 +106,8 @@
         <entry file="file://$PROJECT_DIR$/interact.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="363">
-                <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <first_editor relative-caret-position="348">
+                <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -278,12 +278,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544282603533</updated>
       <workItem from="1544282605654" duration="7323000" />
-      <workItem from="1544963041215" duration="21065000" />
+      <workItem from="1544963041215" duration="22085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28388000" />
+    <option name="totallyTimeSpent" value="29408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -449,16 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interact.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="363">
-            <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -503,11 +493,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interact.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/generalstats.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="56" column="367" selection-start-line="56" selection-start-column="367" selection-end-line="56" selection-end-column="367" />
+          <first_editor relative-caret-position="246">
+            <caret line="90" column="438" selection-start-line="90" selection-start-column="438" selection-end-line="90" selection-end-column="438" />
           </first_editor>
           <second_editor />
         </state>

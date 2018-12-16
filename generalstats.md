@@ -58,7 +58,9 @@ Why there are almost no tweets in the first dataset before november 2014 in the 
 ![First user entries in the second dataset table](/generalstats/firstentrieduserstable.png)
 ### All users
 ![First user entries in the second dataset](/generalstats/firstuserentriessceonddataset.png)
-In this visualization the extreme amount of Russian troll accounts made in 2014 dominates the plot. We can also see entries even as far back as 2009! This was before the Internet Research Agency even existed.
+> Again, pay attention to the labels on the x-axis.
+
+In this visualization the extreme amount of Russian troll accounts made in 2014 dominates the plot. We can see entries even as far back as 2009! This was before the Internet Research Agency even existed.
 
 ## The account categories provided by Linvill and Warren
 The categories that Linvill and Warren created by manually checking each user provides a extra touch of possibilities in the first dataset. They have placed all the users into seven account categories, based on the content of their tweets. Their description of them are as follows: 
@@ -71,24 +73,26 @@ The categories that Linvill and Warren created by manually checking each user pr
 - Commercial: Only commercial content.
 
 ![Table showing statistical distribution of account categories determined by Linvill and Warren.](/generalstats/categorytablestats.png)
+> The amount of tweets from the NonEnglish users is skewed, since these tweets are the NonEnglish users' tweets in English. They can't be viewed as a representation of all the NonEnglish users.
 ![First user entries by account categories.](/generalstats/Usercategoriesfirstentries.png)
-Most of the accounts were created over a time period in 2015. A few spike points stand out, for example that many of the "other" accounts like NewsFeed and HashtagGamer were created in May 2015. The same month had a high spike of right troll tweets, but the highest amount of Right Trolls came in the summer of 2017, leading up to the events in Charlottesville. 
 
-The NonEnglish that appears in this visualization users have had tweets in english, but generally tweet in another language. They can't be viewed as a representation of all the NonEnglish users.
+Most of the accounts were created over a time period in 2015. A few spikes stand out, for example that many of the "other" accounts like NewsFeed and HashtagGamer were created in May 2015. The same month had a high spike of right troll tweets, but the highest amount of Right Trolls came in the summer of 2017, leading up to the events in Charlottesville. 
 
 ## Most active and popular users
 
 ![Users with most tweets first dataset](/generalstats/mosttweetsfirstdataset.png)
-Some of the top accounts in the dataset tweets in an enormous scale. Mostly of these are NewsFeed, spreading news disguised as some local institution. In most cases, the news are legitimate and links to real news sources (The tweets in their original form can still be found [here](https://russiatweets.com/author)). This tactic may be to invoke doubt about whether social media news channels can be seen as trustworhty, but it is hard to say for sure.
+Some of the top accounts in the dataset tweet at an enormous scale. Most of these are NewsFeed, spreading news disguised as some local institution. In most cases, the news are legitimate and links to real news sources (The tweets in their original form can still be found [here](https://russiatweets.com/author)). This tactic may be to invoke doubt about whether social media news channels can be seen as trustworhty, but it is hard to say for sure.
 
-It's interesting to notice that almost none of the top 10 retweets at all, except AMELIEBALDWIN which almost exclusively retweets.
+It's interesting to notice that almost none of the top 10 retweet at all, except AMELIEBALDWIN which almost exclusively retweets.
 
 ![Users with most followers](/generalstats/mostfollowersfirstdataset.png)
-Many of the accounts had a huge amount of followers. In this scale it is fully possible to be viewed as a serious tweeter. The author CRYSTAL1JOHNSON for example is a LeftTroll that was frequently retweeted, [for example also by Twitter's own creator, Jack Dorsey](http://uk.businessinsider.com/twitter-ceo-jack-dorsey-retweets-russian-trolls-2018-6?r=US&IR=T). Also, Donald Trump personally [thanked TEN_GOP](https://twitter.com/realDonaldTrump/status/910331061409902592) for a supporting tweet. This proves that the trolls can have serious influence on social media. Most of the top 10 most followed users are RightTroll, which means that this category has been passed on as trustworthy.
+Many of the accounts had a huge amount of followers. On this scale it is fully possible to be viewed as a serious tweeter. The author CRYSTAL1JOHNSON for example, is a LeftTroll that was frequently retweeted, [even 17 times by Twitter's own creator, Jack Dorsey](http://uk.businessinsider.com/twitter-ceo-jack-dorsey-retweets-russian-trolls-2018-6?r=US&IR=T). Donald Trump personally [thanked TEN_GOP](https://twitter.com/realDonaldTrump/status/910331061409902592) for a supporting tweet. This proves that the trolls can have serious influence on social media. Most of the top 10 most followed users are labeled RightTroll.
 
-We can also see that one could get a lot of popularity regardless of being the most frequent tweeter. Popularity on Twitter is often gained by being retweeted by other popular accounts, and to get retweeted 17 times by Twitter's own creator surely helps. In the case of ELEVEN_GOP so was this the backup account of TEN_GOP, which explains the amount of followers though having just 101 tweets.
+We can see that one could get a lot of popularity regardless of being the most frequent tweeter. Popularity on Twitter is often gained by being retweeted by other popular accounts, and to get retweeted 17 times by Twitter's own creator surely helps. The reason why ELEVEN_GOP has so many followers is because it was the backup account of the most popular user, TEN_GOP. This explains the amount of followers in spite of having having only 101 tweets.
 
 The most popular authors do not retweet often, as we barely can see the blue retweet count in any of the top 10 authors.
+
+#### Most interacting users
 
 ![Users that have been interacting the most](/generalstats/Mostinteractingtrolls.png)
 These are the users that interacts the most to others. Interacting can mean retweeting, replying or quote tweeting someone. You can also have two interactions in one tweet. To get the full grip of how this work you can read part 3.4 in our [working notebook](https://github.com/haakonms/ADAproject/blob/master/Milestone3.ipynb).
@@ -98,6 +102,8 @@ For this and the next figure, the orange part of the stacked bars is how many tw
 Most of these users were hashed in the dataset so we don't know there names. One user stands out with over 160000 interactions (this does not mean 160000 unique users reached). This is the user that also had close up to 160000 tweets, meaning that this user is a mastodont of an interacter. Interestingly he is doing it mostly to normal Twitter users. 
 
 Some of the users also have a significant number of interactions going towards other trolls.
+
+#### Users that have been the most interacted with
 
 ![Users that have been most interacted with](/generalstats/mostinteractedwithtrolls.png)
 
