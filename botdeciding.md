@@ -26,11 +26,11 @@ We found out that 926 of 2286 users had this type of behaviour, which is 40,5% o
 
 #### Placing users and likely bots into ranges of followers and total tweets
 ![Follower and tweetcount](/botsdeciding/botsandusers.png)
->Here the trolls with under 10 tweets are not included, removing 8 likely bots. The mean of likely bots per user legend means expected number bots of total users in each bucket.
+>Trolls with under 10 tweets are not included, removing 8 likely bots. The mean of likely bots per user legend (red line) means the expected number bots of total users in each bucket.
 
-When trolls come up in a certain number, it becomes more likely for them being bots. There may be subranges that have higher amount of bots than others as well, since our ranges are randomly picked to have a more distributed visualization. Most of the results here is just around its own standard deviation, especially with the followers. That the bucket  of (200, 500] followers has that low amount of likely bots is most likely a coincidence.
+If the trolls are bots it is more likely that they have reached a number of tweets. There may be sub-ranges that have higher amount of bots than others as well, since our ranges are randomly picked to have a more distributed visualization. The amount of followers is more evenly distributed. The reason why the bucket of (200, 500] followers has that low amount of likely bots is most likely a coincidence.
 
-We could also have limited ourselves to over 50 tweets, since there are also very few of these bots that fall under our likelihood, and their impact is as well limited.
+We could also have limited ourselves to over 50 tweets, since the number of bots is far from matching the expected value.
 
 The most interesting parts are on the right side of both subplots. Even though having the largest amount of tweets and followers, they don't tweet the same duplicated content in spite of having a much higher sample size. 
 
