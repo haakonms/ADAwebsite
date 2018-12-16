@@ -22,23 +22,30 @@ There we will also go through step-by-step our line of thought in this project.
 
 ## Additional information about the pages
 
-### General stats regarding the dataset
+### 1. General stats regarding the dataset.
+[This page](./generalstats.html) shows a bunch of many visualizations of basic statistics. 
+How often did the trolls tweet? At which time of the day? Were they more active during the election? What is the highest amount of followers a troll has had?
+These questions amongst others will be answered.
+
+### 2. How we found the users with bot-like pattern.
+[This page](./botdeciding.html) shows the methods we used to find out and decide which users we would go on to categorize as likely being bots. This may be useful to better understand how to detect the trolls. 
+
+### 3. Does the trolls interact with each other?
+[This page](./interact.html) shows how the Twitter trolls interact with each other and in which scale they do it. 
+
+### 4. How you may be able to detect some of the trolls.
+[This page](./userdetect.html) give you an insight in if it is possible to detect some of the Russian Twitter trolls, as well as providing statistics for how the users are divided into different classifications.
 
 
-### How we found the users with bot-like pattern
+#### Technical information
 
+If you want to check all our work for this project, go check out our 
+[ github repo for the project](https://github.com/haakonms/ADAproject).
 
+Our repo for the website can be found [here](https://github.com/haakonms/ADAwebsite).
 
-[Link to our github repo for the project](https://github.com/haakonms/ADAproject).
+We used two different datasets for this project. One was created by two researchers at Clemson University, and contains some cool features as classification of the accounts into categories. The set can be downloaded and read about [here](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets).
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+The other dataset was released by Twitter this autumn. We only have it on our own Drive, but we can share it by request.
 
-### There's a horizontal r
-```
-The final element.
-```
+Thanks for your time!

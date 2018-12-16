@@ -4,23 +4,18 @@ layout: default
 
 # General statistics from the IRA Russian Twitter trolls
 
-To introduce you to the Russian Twiter trolls, this page consists of many visualizations of basic statistics. 
+To introduce you to the Russian Twitter trolls, this page consists of many visualizations of basic statistics. 
 How often did the trolls tweet? At which time of the day? Were they more active during the election? What is the highest amount of followers a troll has had?
 
 These questions, and more, will be answered by scrolling down.
 ## Tweets over time
 
-### First dataset
-
-![Total english tweets in the first dataset](/generalstats/Totaltweetsfirstset.png)
-
-The results shows that there were almost no activity until the announcement of the first candidacies in the primaries, with the first visible chart in november 2014. Activity increased in the months just before the election, peaked in december 2016 and decreased a little after that. There were two spikes in July 2015 and August 2017. In August 2017 this was probably because of the Unite The Right rally in Charlottesville, also known as the [Charlottesville riots](https://en.wikipedia.org/wiki/Unite_the_Right_rally)  ,where e.g. a woman got killed by a white supremacist. You can read more about the tweets from this event in this [Buzzfeed article](https://buzzfeednews.github.io/2018-08-charlottesville-twitter-trolls/).
-
-### Second dataset
-
 #### English tweets.
 ![Total english tweets in the second dataset](/generalstats/totaltweetssecondset.png)
-Almost all the tweets from the first dataset are also in the second dataset. When comparing the two against each other, notice that the labels on the x-axis are different for each of them. Here, the dataset is quite similar to first one in 2016 and further, but before this point this set has catched up on a lot more trolls. For example august 2014 has almost 150000 tweets, and in the first dataset this number is almost non-existent.
+> When comparing the two against each other, notice that the labels on the x-axis are different for each of them. There were also tweets before November 2013, but only 400 in total.
+
+The results shows that there were almost no english activity until 2014, with the first visible chart in november 2014. Activity increased in the months just before the election, peaked in december 2016 and decreased a little after that. Then there was a spike in August 2017. This was probably because of the Unite The Right rally in Charlottesville, also known as the [Charlottesville riots](https://en.wikipedia.org/wiki/Unite_the_Right_rally), where e.g. a woman got killed by a white supremacist. You can read more about the tweets from this event in this [Buzzfeed article](https://buzzfeednews.github.io/2018-08-charlottesville-twitter-trolls/).
+
 
 #### Tweets in all languages.
 ![Total tweets in all languages in the second dataset](/generalstats/allanguages.png)
