@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+# Introduction
 Over the last several years there has been an attempt from Russian trolls to spread propaganda and fake news over social media in order to spread political ideas among the general population both nationally and internationally.
 
 On this website a great number of these russian tweets have been analyzed and visualized. We will also look into how the trolls operate and organize themselves, trying to find patterns in the madness. Such patterns might maybe lead us to being able to detect these Russian trolls in an earlier stage.
