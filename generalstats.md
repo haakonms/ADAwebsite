@@ -97,19 +97,19 @@ The most popular authors do not retweet often, as we barely can see the blue ret
 ![Users that have been interacting the most](/generalstats/Mostinteractingtrolls.png)
 These are the users that interacts the most to others. Interacting can mean retweeting, replying or quote tweeting someone. You can also have two interactions in one tweet. To get the full grip of how this work you can read part 3.4 in our [working notebook](https://github.com/haakonms/ADAproject/blob/master/Milestone3.ipynb).
 
-For this and the next figure, the orange part of the stacked bars is how many tweets the user has that is direct interactions to other trolls in the dataset.
+For the previous and the following figure, the orange part of the stacked bars represents how many tweets the user has that is direct interactions to other trolls in the dataset.
 
-Most of these users were hashed in the dataset so we don't know there names. One user stands out with over 160000 interactions (this does not mean 160000 unique users reached). This is the user that also had close up to 160000 tweets, meaning that this user is a mastodont of an interacter. Interestingly he is doing it mostly to normal Twitter users. 
+Most of these users were hashed in the dataset so we don't know their names. One user stands out with over 160000 interactions (this does not mean 160000 unique users reached). This is the user that nearly had 160000 tweets, meaning that this user is a mastodont of an interacter. Interestingly, he is doing it mostly to normal Twitter users. 
 
-Some of the users also have a significant number of interactions going towards other trolls.
+Some of the users have a significant number of interactions going towards other trolls.
 
-### Users that have been the most interacted with
+### Users that have been interacted with the most 
 
 ![Users that have been most interacted with](/generalstats/mostinteractedwithtrolls.png)
 
-It is clear that the users that have been interacted with the most have a so small fraction of troll interactions that it is invisible in most cases. This is mostly due to reaching out to so many people that the trolls interacting with these users are basically outnumbered. It may also be that at some point, if the users get popular enough, IRA trolls stops interacting with theses users to mitigate suspicion towards the users, as they can live on their own.
+It is clear that the users that have been interacted with the most have a so small fraction of troll interactions that it is invisible in most cases. This is likely due to reaching out to so many people that the trolls interacting with these users are basically outnumbered. It may also be that at some point, if the users get popular enough, IRA trolls stops interacting with theses users to mitigate suspicion towards the users.
 
-It's also interesting to see that all of these users are trolls with a political leaning, meaning that these users are the ones that have the biggest audience.
+It's also interesting to see that all of these users are trolls with a political leaning, meaning that the users in a political category are the ones that have the biggest audience and.
 
 
 
