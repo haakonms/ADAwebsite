@@ -25,16 +25,16 @@ If you want to skip to that part, click [here](./userdetect.html).
 ![Cumulative distribution](/interacting/cumulativeinteracting.png)
 
 To interpret this visualization:
-- This mean that almost 20% of the trolls have never interacted to trolls.
-- 50% of the users have more than 30% of their interactions directed to trolls, and 50% has less than 30%.
+- Around 30% of the trolls have never interacted with trolls.
+- 50% of the users have more than 20% of their interactions directed to trolls.
 - Around 30% of trolls have more than 50% of their interactions directed to trolls.
 - Around 5% of the users only interact with trolls.
 
 In conclusion, yes they do interact with each other, and some of them does it a whole lot. As we saw in [how we made the tag of bot-likely users](./botdeciding.html), many users also tweet exactly the same content as well, meaning that users also are connected in other forms than through interactions.
 
-Since many of the trolls so clearly is interacting as an unit, we divided them into a whole bunch of categories to try to find out how normal users could detect them.
+Since he trolls clearly are interacting as an unit, we divided them into a range of categories to try to find out how normal users could detect them.
 
-> Since the user with under 10 tweets are almost invisible to most of normal Twitter users and only half of them have ever interacted as well, we remove them for the main categorization of users. Most people will never even see those trolls, and users that never get more than ten tweets will in general been questioned as being a significant Twitter user at all.
+> Since the user with under 10 tweets are almost invisible to most of normal Twitter users and only half of them have ever interacted as well, we remove them for the main categorization of users. Most people will never even see those trolls, and users that never get more than ten tweets is not a significant Twitter user at all.
 
 > Therefore the next analysis will contain users that have a minimum of capability of impacting the general discussion, since they are or have been active at all, with that definition only being reaching a number of over 10 tweets.
 
