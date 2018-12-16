@@ -24,7 +24,7 @@ The significant length of these makes it unlikely for users randomly tweeting th
 We found out that 926 of 2286 users had this type of behaviour, which is 40,5% of the dataset. Some of them may have slipped in by randomingly tweeting the same as 75 other people, but this foremost concludes that they are a part of a network that have the same tweets. 
 > The percentage here is taken from all users that tweet in english. In future visualizations regarding the question whether someone can detect Twitter trolls we will also limit the tweets to being "impacting" tweets which will elevate this number.
 
-###### Placing users and likely bots into ranges of followers and total tweets
+#### Placing users and likely bots into ranges of followers and total tweets
 ![Follower and tweetcount](/botsdeciding/botsandusers.png)
 >Here the trolls with under 10 tweets are not included, removing 8 likely bots.
 
