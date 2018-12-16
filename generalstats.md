@@ -116,7 +116,7 @@ It's also interesting to see that all of these users are trolls with a political
 ***
 *Was this interesting? Check out our further analysis:*
 
-- *[Read about how we found the bot-likely patterns](./botdeciding.html)*
+- *[Read about how we found the likely bots](./botdeciding.html)*
 - *[Check out whether the Russian trolls interact with each other](./interact.html)*
 - *[Can normal people detect the russian bots?](./userdetect.html)*
 

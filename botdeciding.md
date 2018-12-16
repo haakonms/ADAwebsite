@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# How we decided the bot-like behaviour.
+# How we decided the bot-like behaviour
 
-Many of the tweets appeared several times in the dataset. Many of them by natural causes, since users had retweeted the same tweets and users were also retweeted internally by other bots. However, an enormous amount of original content appeared multiple times.
+Many tweets appeared several times in the dataset. Some of them by natural causes, since users had retweeted the same tweets and users were also retweeted internally by other bots. However, an enormous amount of original content appeared multiple times.
 
 We searched for these tweets and see how many times they appeared in the dataset and look at its content.
 
