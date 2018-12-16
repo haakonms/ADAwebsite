@@ -37,15 +37,16 @@ These questions, amongst others, will be answered.
 [This page](./userdetect.html) give you an insight in whether it is possible to detect some of the Russian Twitter trolls, as well as providing statistics for how the users are divided into different classifications.
 
 ***
+
 #### Technical information
 
-If you want to check all our work for this project, go check out our 
+If you want to check all our work for this project, take a look at our 
 [ github repo for the project](https://github.com/haakonms/ADAproject).
 
 Our repo for the website can be found [here](https://github.com/haakonms/ADAwebsite).
 
-We used two different datasets for this project. One was created by two researchers at Clemson University, and contains some cool features as classification of the accounts into categories. The set can be downloaded and read about [here](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets).
+We used two different datasets for this project. One was created by two researchers at Clemson University, and contains some extra features as for example classification of the accounts. The set can be downloaded and read about [here](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets).
 
-The other dataset was released by Twitter this autumn. We only have it on our own Google Drive, but we can share it by request.
+The other dataset was released by Twitter this autumn. We only have it on our own Google Drive, but can be shared it by request.
 
 Thanks for your time!
