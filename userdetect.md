@@ -65,9 +65,9 @@ This is a table showing the numbers and percentage of different user categories 
 ### Final thoughts
 All users are now more or less categorized, and some of them are possible to detect. The users that are possible to detect mainly have in common is that they are likely of being bots. If we look at all the categories we have created that includes bots and compare them, we can observe an extraordinary distribution in between.
 ![Follower and tweetcount](/botsdeciding/botinteracting.png)
-* The likely bots almost have a perfectly dividing line in both followers and tweet count. Almost all of the interacting likely bots with the highest amount of followers and tweets are highly interacting bots. The same accounts with the bots that interact at all over 500 followers.
+* The likely bots almost have a perfectly dividing line in both followers and tweet count. Almost all of the interacting likely bots with the highest amount of followers and tweets are highly interacting bots.
 
-* This means that the likely bots that mainly interacts with other users tweets an enormous part. They also have a lot of followers which we may suppose that comes from the extreme amount of interacting with other normal Twitter users. They may also have bot-like behaviour when it comes to following others. 
+* This means that the likely bots that mainly interact with other users tweets an enormous part. They also have a lot of followers which we may suppose that comes from the extreme amount of interacting with other normal Twitter users. They may also have bot-like behaviour when it comes to following others. 
 
 * The fact that he bots that mainly interact with other trolls has a small amount of followers is not surprising since they mostly don't reach out to other users and tweet in limited numbers.
 

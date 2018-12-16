@@ -48,6 +48,6 @@ Our repo for the website can be found [here](https://github.com/haakonms/ADAwebs
 
 We used two different datasets for this project. One was created by two researchers at Clemson University, and contains some extra features as for example classification of the accounts. The set can be downloaded and read about [here](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets).
 
-The other dataset was released by Twitter this autumn. We only have it on our own Google Drive, but can be shared it by request.
+The other dataset was released by Twitter this autumn. It can be found [here](https://about.twitter.com/en_us/values/elections-integrity.html#data).
 
 Thanks for your time!
