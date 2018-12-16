@@ -40,4 +40,12 @@ Since many of the trolls so clearly is interacting as an unit, we divided them i
 
 More on this on [this page](./userdetect.html).
 
+***
+*Was this interesting? Check out our other analysis:*
+
+
+- *[Read the general statistics of the trolls? It might give you more insight to this page!](./generalstats.html)*
+- *[Read about how we found the bot-likely patterns.](./botdeciding.html)*
+- *[Can normal people detect the russian bots?](./userdetect.html)*
+
 [Back to start page](./)
