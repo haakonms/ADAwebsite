@@ -34,7 +34,7 @@ In conclusion, yes they do interact with each other, and some of them does it a 
 
 Since he trolls clearly are interacting as an unit, we divided them into a range of categories to try to find out how normal users could detect them.
 
-> Since the user with under 10 tweets are almost invisible to most of normal Twitter users and only half of them have ever interacted as well, we remove them for the main categorization of users. Most people will never even see those trolls, and users that never get more than ten tweets is not a significant Twitter user at all.
+> Since the user with under 10 tweets are almost invisible to most of normal Twitter users and only half of them have ever interacted as well, we remove them for the main categorization of users. Most people will never even see those trolls, and users that never get more than ten tweets are likely not impacting Twitter users at all.
 
 > Therefore the next analysis will contain users that have a minimum of capability of impacting the general discussion, since they are or have been active at all, with that definition only being reaching a number of over 10 tweets.
 

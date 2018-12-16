@@ -2,9 +2,9 @@
 layout: default
 ---
 # Can a normal person detect whether a Twitter user is a troll?
-In general, the answer to this question is no, unfortunately. Most Twitter users do not have time or don't take the effort to detect some of the trolls. In no cases can you be sure of that it represents a troll from the IRA as well, but you may be able to detect whether this user is a troll in general! To do this you need to know some about the different categories of trolls.
+In general, the answer to this question is no, unfortunately. Most Twitter users do not have time, or don't take the effort to detect some of the trolls. It is impossible to separate the Russian trolls from other trolls, but you may be able to detect whether this user is a troll in general! To do this you need to know some about the different categories of trolls.
 
-This is a table showing the numbers and percentage of different user categories in the dataset. So in each of them, do they have traits that makes it possible for us to detect them?
+This is a table showing the numbers and percentage of different user categories in the dataset. Do they have traits that makes it possible for us to detect them?
 
 ![Table with all the categories](/categories/finaltable.png)
 
