@@ -63,9 +63,9 @@ This is a table showing the numbers and percentage of different user categories 
 - Around 16,4% of all users. They rarely have more than 2500 tweets but account for around a third of the users between 1000 and 2500 tweets. In terms of followers they are mostly limited to under 200, and do not exist in the group of users with over 7500 followers. Unfortunately, there is no way to detect these users except the method that applies for all bots. Search for their original content of significant length, and look for numerous duplicates.
 
 ### Final thoughts
-All users are now more or less categorized, and some of them is possible to detect. What they do have in common is again their likeliness of being bots. If we look at all the categories we have created that includes bots and compare them together, we can observe an extraordinary distribution in between.
+All users are now more or less categorized, and some of them are possible to detect. The users that are possible to detect mainly have in common is that they are likely of being bots. If we look at all the categories we have created that includes bots and compare them, we can observe an extraordinary distribution in between.
 ![Follower and tweetcount](/botsdeciding/botinteracting.png)
-* The likely bots almost has a perfectly dividing line in both followers and tweet count. Almost all of the likely bots that interact at all are mainly interacting bots. The same accounts with the bots that interact at all over 500 followers.
+* The likely bots almost have a perfectly dividing line in both followers and tweet count. Almost all of the interacting likely bots with the highest amount of followers and tweets are highly interacting bots. The same accounts with the bots that interact at all over 500 followers.
 
 * This means that the likely bots that mainly interacts with other users tweets an enormous part. They also have a lot of followers which we may suppose that comes from the extreme amount of interacting with other normal Twitter users. They may also have bot-like behaviour when it comes to following others. 
 
