@@ -11,8 +11,9 @@ This is a table showing the numbers and percentage of different user categories 
 
 ## Trolls that never have interacted at all
 ![Non-interacting users and likely bots](/categories/non-interacting.png)
-### Non-interacting non-bots: 
-- Around 4.7 % of the users in the dataset. They have few followers and do not tweet much. You will probably never be in touch with these since they have such small impact on the overall discussion on Twitter. How can you detect these as trolls? There is probably nothing special about their tweets and can not be detected by just looking into the profile or tweets, but one could try to reply to one of their original tweets with a question if you suspect a troll. You will probably not get an answer.
+### Non-interacting regular users:
+> Regular users is total users minus likely bots. 
+- Around 4.7 % of the users in the dataset. They have few followers and do not tweet much. You will probably never be in touch with these since they have such small impact on the overall discussion on Twitter. How can you detect these as trolls? There is probably nothing special about their tweets and can not be detected by just looking into the profile or tweets, but one could try to reply to one of their original tweets with a question if you suspect a troll and see if it answers
 
 
 ### Non-interacting bots: 
@@ -20,9 +21,9 @@ This is a table showing the numbers and percentage of different user categories 
 
 ## Trolls that mainly interact with other trolls when they interact.
 ![Mainly troll-interacting users and likely bots](/categories/mainlytrollinteracting.png)
-### Mainly troll-interacting non-bots: 
+### Mainly troll-interacting regular users: 
 
-- Around 26,3% of the dataset. Mainly pretty evenly distributed, but few of them have many followers, though they make up a good amount of the users with most followers. They have a average amount of tweets. If you are able to know whether other users are trolls, you could find patterns in this users way of interacting with others. As a normal Twitter user however, it seems rather hard to tell if it is in this category. These users mainly have not a big impact, but among the user with most followers they are very effective for their purpose by exploiting the fact that they have many followers to advert for other Twitter trolls and make them more noticed by retweeting and quote tweeting. This probably makes them one of the more dangerous categories.
+- Around 15,3% of the dataset. Mainly pretty evenly distributed, but few of them have many followers, though they make up a good amount of the users with most followers. They have a average amount of tweets. If you are able to know whether other users are trolls, you could find patterns in this users way of interacting with others. As a normal Twitter user however, it seems rather hard to tell if it is in this category. These users mainly have not a big outreach, but among the user with most followers they are very effective for their purpose by exploiting the fact that they have many followers to advert for other Twitter trolls and make them more noticed by retweeting and quote tweeting. This probably makes them one of the more dangerous categories.
 
 
 ### Mainly troll-interacting bots: 
@@ -30,20 +31,20 @@ This is a table showing the numbers and percentage of different user categories 
 
 ## Trolls that most of their time interact with other users.
 ![Highly interacting users and likely bots](/categories/highlyinteracting.png)
-### Highly interacting non-bots:
-- Around 20% of all user in the dataset is in this category. Have a small amount of users in the medium range (100 to 1000) of total tweets and make up a significant number of those with a small amount of tweets and semi-high amount of around 2500 to 5000 tweets. Those users are hard to detect as trolls compared to other users that interact a lot, but you should have a natural skepticism towards users that mainly interacts in form of just forwarding other messages in form of retweeting and quoting. 
+### Highly interacting regular users:
+- Around 20% of all users in the dataset are in this category. There are a small amount of such users in the medium range (100 to 1000) of total tweets. They make up a significant number of the trolls with a small amount of tweets, as well as a semi-high amount of users around 2500 to 5000 tweets. Those users are hard to detect as trolls compared to other users that interact a lot, but you should have a natural skepticism towards users that mainly tweets by forwarding other messages in form of retweeting and quoting. 
 
 - In case of followers most of them have medium amount of between 100 and 500, but are represented in all the ranges. Some of them may be retweet bots that convey a specific political standpoint, but overall it is users that would avoid being recognized as trolls.
 
 
 ### Highly interacting bots: 
-- Around 9.7% of all users in the dataset is in this category. Exclusively have more than 500 tweets, mostly over 1000. They always have a high amount of followers, mostly being between 500 and 7500 followers where they make up over 50% of all interacting users. 
+- Around 9.7% of all users in the dataset are in this category. Exclusively have more than 500 tweets, mostly over 1000. They always have a high amount of followers, mostly being between 500 and 7500 followers where they make up over 50% of all interacting users. 
 
 - Since they have so specific common traits, these users can be picked up as trolls if you have a keen eye. Look for their original content and check whether it is duplicates using the same methods as earlier mentioned 
 
 ## Trolls that are highly interacting and mainly interact to other trolls.
 ![Highly interacting non-bots that mainly interact to trolls users and likely bots](/categories/hiahta.png)
-### Highly interacting non-bots that mainly interact to trolls: 
+### Highly interacting regular users that mainly interact to trolls: 
 - This category is an overlap of the two abovementioned categories. Around 4% of all users in the dataset is in this category, and 4 percentage points of the users in each the categories over except none-interacting users. They are pretty evenly distributed in terms of both total tweets and followers. The same yields for these users as the two mentioned in case of detection. They are slightly easier to point out, but unfortunately, it is still hard for a common Twitter user.
 
 
