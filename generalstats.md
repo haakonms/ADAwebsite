@@ -92,7 +92,7 @@ We can see that one could get a lot of popularity regardless of being the most f
 
 The most popular authors do not retweet often, as we barely can see the blue retweet count in any of the top 10 authors.
 
-#### Most interacting users
+### Most interacting users
 
 ![Users that have been interacting the most](/generalstats/Mostinteractingtrolls.png)
 These are the users that interacts the most to others. Interacting can mean retweeting, replying or quote tweeting someone. You can also have two interactions in one tweet. To get the full grip of how this work you can read part 3.4 in our [working notebook](https://github.com/haakonms/ADAproject/blob/master/Milestone3.ipynb).
@@ -103,7 +103,7 @@ Most of these users were hashed in the dataset so we don't know there names. One
 
 Some of the users also have a significant number of interactions going towards other trolls.
 
-#### Users that have been the most interacted with
+### Users that have been the most interacted with
 
 ![Users that have been most interacted with](/generalstats/mostinteractedwithtrolls.png)
 
