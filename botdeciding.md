@@ -26,7 +26,7 @@ We found out that 926 of 2286 users had this type of behaviour, which is 40,5% o
 
 #### Placing users and likely bots into ranges of followers and total tweets
 ![Follower and tweetcount](/botsdeciding/botsandusers.png)
->Here the trolls with under 10 tweets are not included, removing 8 likely bots.
+>Here the trolls with under 10 tweets are not included, removing 8 likely bots. The mean of likely bots per user legend means expected number bots of total users in each bucket.
 
 When trolls come up in a certain number, it becomes more likely for them being bots. There may be subranges that have higher amount of bots than others as well, since our ranges are randomly picked to have a more distributed visualization. Most of the results here is just around its own standard deviation, especially with the followers. That the bucket  of (200, 500] followers has that low amount of likely bots is most likely a coincidence.
 
