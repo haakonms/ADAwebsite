@@ -19,7 +19,7 @@ This data story consists of four pages, excluding this start page. You will be a
 
 Through this data story we will not provide the information of how we found things out or how we coded things. If you want a total understanding of all the processes in creating  this page or just view a bunch of code, please take a look at our [notebook](Insertlink).
 There we will also go through our line of thougth step-by-step.
-
+***
 ## Additional information about the pages
 
 ### 1. General statistics.
@@ -34,9 +34,9 @@ These questions, amongst others, will be answered.
 [This page](./interact.html) shows how the Twitter trolls interact with each other, and in which scale. 
 
 ### 4. How you may be able to detect some of the trolls.
-[This page](./userdetect.html) give you an insight in if it is possible to detect some of the Russian Twitter trolls, as well as providing statistics for how the users are divided into different classifications.
+[This page](./userdetect.html) give you an insight in whether it is possible to detect some of the Russian Twitter trolls, as well as providing statistics for how the users are divided into different classifications.
 
-
+***
 #### Technical information
 
 If you want to check all our work for this project, go check out our 
