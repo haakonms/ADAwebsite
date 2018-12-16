@@ -40,7 +40,9 @@ From August 2017 the dataset consists almost exclusively of RightTroll tweets. F
 ### Tweets per day (first dataset).
 What about the spread of tweets throughout a day? May it be possible to detect some irregularities regarding the time differences between Russia and USA? 
 ![Picture showing distribution of tweets per hour through a day](/generalstats/Tweetsperdayfirstdataset.png)
-Here the Russians have done a good job in timing the tweets. The tweets follows a good frequency regarding to when people are awake, and the majority of them are posted in the evening (here it is necessary to think that there is four different time zones in the US, and this is following Eastern American time). The amount of tweets in especially midnight and in the early morning is a bit high, compared to actual [tweet pattern through the day in the USA](https://blog.bufferapp.com/wp-content/uploads/2015/06/Buffer-social-media-science-study-US-popular-times-to-tweet-639x800.png). Regardless of this, people would probably not question this too much if some of the goals are to mimic excessively tweeting political activists, spammers or internet warriors.
+> Here it is necessary to notice that there are four different time zones in the US, and this is following Eastern American time.
+
+Here the Russians have done a good job in timing the tweets. The tweets follows a good frequency regarding to when people are awake, and the majority of them are posted in the evening. The amount of tweets in especially midnight and in the early morning is a bit high, compared to actual [tweet pattern through the day in the USA](https://blog.bufferapp.com/wp-content/uploads/2015/06/Buffer-social-media-science-study-US-popular-times-to-tweet-639x800.png). Regardless of this, people would probably not question this too much if some of the goals are to mimic excessively tweeting political activists, spammers or internet warriors.
 
 
 ## First appearances of users
