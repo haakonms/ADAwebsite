@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d751a316-e4fa-4b1a-a1a0-e7079b945db9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/interact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/interact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/userdetect.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/userdetect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interact.md" beforeDir="false" afterPath="$PROJECT_DIR$/interact.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/userdetect.md" beforeDir="false" afterPath="$PROJECT_DIR$/userdetect.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -86,8 +80,8 @@
         <entry file="file://$PROJECT_DIR$/userdetect.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="86">
+                <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -282,12 +276,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544282603533</updated>
       <workItem from="1544282605654" duration="7323000" />
-      <workItem from="1544963041215" duration="25567000" />
+      <workItem from="1544963041215" duration="25654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32890000" />
+    <option name="totallyTimeSpent" value="32977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -510,8 +504,8 @@
     <entry file="file://$PROJECT_DIR$/userdetect.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="86">
+            <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>

@@ -7,8 +7,9 @@ In general, the answer to this question is no, unfortunately. Most Twitter users
 This is a table showing the numbers and percentage of different user categories in the dataset. Do they have traits that makes it possible for us to detect them?
 
 ![Table with all the categories](/categories/finaltable.png)
+> The empty cells have no values.
 
-## Trolls that never has interacted.
+## Trolls that never have interacted at all
 ![Non-interacting users and likely bots](/categories/non-interacting.png)
 ### Non-interacting non-bots: 
 - Around 4.7 % of the users in the dataset. They have few followers and do not tweet much. You will probably never be in touch with these since they have such small impact on the overall discussion on Twitter. How can you detect these as trolls? There is probably nothing special about their tweets and can not be detected by just looking into the profile or tweets, but one could try to reply to one of their original tweets with a question if you suspect a troll. You will probably not get an answer.
