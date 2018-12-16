@@ -2,8 +2,12 @@
 layout: default
 ---
 
-# General statistics from the IRA russian twitter trolls
+# General statistics from the IRA Russian Twitter trolls
 
+To introduce you to the Russian Twiter trolls, this page consists of many visualizations of basic statistics. 
+How often did the trolls tweet? At which time of the day? Were they more active during the election? What is the highest amount of followers a troll has had?
+
+These questions, and more, will be answered by scrolling down.
 ## Tweets over time
 
 ### First dataset
@@ -43,12 +47,17 @@ Here the Russians have done a good job in timing the tweets. The tweets follows 
 
 
 ## First appearances of users
+Which months that have the most tweets also need to be seen in light of how many trolls the IRA had on that time. This part will visualize when the users first appeared.
 
-### First dataset
+### English users
 ![First user entries in the first dataset](/generalstats/Firstentryusersfirstdataset.png)
+We can see here that most of the users first appear in 2015, after the primaries had started, and with a little spike in the summer of 2017 with the wave of RightTroll users. _NB: Pay attention to the labels on the x-axis. Months with no introduction of new users are not included in this visualisation._
 
-###Second dataset
+Why there are almost no tweets in the first dataset before november 2014 in the timeline is because there was almost none active english troll users in that period. As we can see in the table provided under, the first entry of only ten users was registered before this time. Half of them was in the month before, and before that it looks sporadic with none users first entried in the year 2013.
+![First user entries in the second dataset table](/generalstats/firstentrieduserstable.png)
+### All users
 ![First user entries in the second dataset](/generalstats/firstuserentriessceonddataset.png)
+In this visualization the extreme amount of Russian troll accounts made in 2014 dominates the plot. We can also see entries even as far back as 2009! This was before the Internet Research Agency even existed.
 
 ## The account categories provided by Linvill and Warren
 The categories that Linvill and Warren created by manually checking each user provides a extra touch of possibilities in the first dataset. They have placed all the users into seven account categories, based on the content of their tweets. Their description of them are as follows: 

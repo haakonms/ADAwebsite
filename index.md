@@ -10,6 +10,8 @@ Markdown is easy to change
 
 [General stats regarding the dataset](./generalstats.html).
 
+[Does the trolls interact with each other?](./interact.html).
+
 [How you may be able to detect some of the trolls.](./userdetect.html).
 
 [How we found the users with bot-like pattern.](./botdeciding.html).
@@ -26,20 +28,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
-
-
-#### Heading out
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
