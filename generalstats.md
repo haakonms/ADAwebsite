@@ -26,12 +26,14 @@ One of the initial research questions we wanted to answer was if things had chan
 How did the troll activity change throughout the political timeline of the American election. We are going to look at two different time periods: Before Clinton and Trump was elected as each of the two parties candidates, and after.
 #### Before primaries
 ![Tweet distribution by category first dataset before primaries](/generalstats/Beforeprimariesfirstset.png)
-Things really sparked off when the first people started announcing their candidacy. In the beginning, it is an almost exponential growth of tweets. There is also a bunch of tweets that are not political categorized as well. 
+Things really sparked off when the first people started announcing their candidacies. In the beginning, there was an almost exponential growth of tweets. There are also several tweets that are not politically categorized as well. 
 #### After primaries
 ![Tweet distribution by category first dataset after primarie](/generalstats/afterprimaries.png)
-The announcements of the candidacies was where the Right and Left trolls really started to appear. At this point, the IRA decided to turn their heads towards american politics. The trolls were surprisingly quiet the same month as the primary election, so the results of the primaries may not have been a significant moment as earlier thought. 
+The trolls were surprisingly quiet the same month as the primary election, so the results of the primaries may not have been as significant as earlier thought. 
 
-The month of the election and the period around this had a stable tweet amount from both sides. Leftist tweets actually dominated until May 2017, and after that it has almost only been the activity of right trolls. Before the primaries the right tweeters were the dominating ones, but we had a whole year where there were more left than right tweets. It is hard to tell exactly why, it may have been a strategy to go harder for dividing the left side up to the election, but why left trolls kept on dominating after the election is somewhat a mystery for us. This may tell us that the specific strategies for the goals of Russia is not as easy to detract from the different troll categories, as it seems like it is a kind of mixed one in this phase.
+The month of the main election and the period around this had a stable tweet amount from both sides. Leftist tweets actually dominated until May 2017, and after that there has almost only been activity from right trolls. Before the primaries the right trolls were the dominating ones, but we had a whole year where there were more left than right tweets. 
+
+It is hard to tell exactly why. It may have been a strategy to go harder for dividing the left side up to the election, but why left trolls kept on dominating after the election is somewhat a mystery for us. This may tell us that the specific strategies for the goals of Russia is not as easy to detract from the different troll categories, as it seems like it is a kind of mixed one in this phase.
 
 From August 2017 the dataset consists almost exclusively of RightTroll tweets. From this point it seems like that they decided to shift their focus from a mixture of trolls to only fronting the right side.
 
