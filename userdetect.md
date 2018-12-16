@@ -34,7 +34,7 @@ This is a table showing the numbers and percentage of different user categories 
 ### Highly interacting regular users:
 - Around 20% of all users in the dataset are in this category. There are a small amount of such users in the medium range (100 to 1000) of total tweets. They make up a significant number of the trolls with a small amount of tweets, as well as a semi-high amount of users around 2500 to 5000 tweets. Those users are hard to detect as trolls compared to other users that interact a lot, but you should have a natural skepticism towards users that mainly tweets by forwarding other messages in form of retweeting and quoting. 
 
-- In case of followers most of them have medium amount of between 100 and 500, but are represented in all the ranges. Some of them may be retweet bots that convey a specific political standpoint, but overall it is users that would avoid being recognized as trolls.
+- Most of theses users have a medium amount of followers between 100 and 500, but are represented in all the ranges. Some of them may be retweet bots that convey a specific political standpoint, but overall it is users that would avoid being recognized as trolls.
 
 
 ### Highly interacting bots: 
