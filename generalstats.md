@@ -111,7 +111,7 @@ Some of the users have a significant number of interactions going towards other 
 
 It is clear that the users that have been interacted with the most have a so small fraction of troll interactions that it is invisible in most cases. This is likely due to reaching out to so many people that the trolls interacting with these users are basically outnumbered. It may also be that at some point, if the users get popular enough, IRA trolls stops interacting with theses users to mitigate suspicion towards the users.
 
-It's also interesting to see that all of these users are trolls with a political leaning, meaning that the users in a political category are the ones that have the biggest audience and.
+It's also interesting to see that all of these users are trolls with a political leaning, meaning that the users in a political category are the ones that have the broadest reach of the trolls.
 
 
 
