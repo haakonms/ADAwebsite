@@ -12,13 +12,15 @@ These questions, and more, will be answered below.
 
 #### English tweets.
 ![Total english tweets in the second dataset](/generalstats/totaltweetssecondset.png)
-> When comparing the two against each other, notice that the labels on the x-axis are different for each of them. There were also tweets before November 2013, but only 400 in total.
+> There were also tweets before November 2013, but only 400 in total.
 
 The results shows that there were almost no english activity until 2014, with the first visible chart in november 2013. Activity had some high peaks in early 2015, before increasing in the months just before the election. It then peaked in december 2016 and decreased a little after that. Then there was a massive spike in August 2017. This was probably because of the Unite The Right rally in Charlottesville, also known as the [Charlottesville riots](https://en.wikipedia.org/wiki/Unite_the_Right_rally), where e.g. a woman got killed by a white supremacist. You can read more about the tweets from this event in this [Buzzfeed article](https://buzzfeednews.github.io/2018-08-charlottesville-twitter-trolls/).
 
 
 #### Tweets in all languages.
 ![Total tweets in all languages in the second dataset](/generalstats/allanguages.png)
+> When comparing the two against each other, notice that the labels on the x-axis are different for each of the graphs.
+
 The highest amount of all tweets actually appeared in 2014. The main difference is that most of the tweets in this period are in russian. Before the english tweets really sparked off, most russian trolls tweeted in their native language. This was in the period when the Ukrainian-Russian conflict was frequently in the media. It may be that the success of the tweeting in this period also started the activity in other regions. This is only speculations, but one thing can be said for sure: The russian trolls came before the english ones. 
 
 ### Before and after the primaries in US

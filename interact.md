@@ -11,7 +11,7 @@ If you want to skip to that part, click [here](./userdetect.html).
 
 ![DIstribution of the users that interact and have interactions](/interacting/allusersdistributionmain.png)
 
-> Disclaimer: The number of users that have been interacted with by others are skewed in this plot. The green bars could and should probably be a little bit higher, especially remarked in the bucket (0,10]. This is because the number of times a tweet is retweeted, quoted or replied to is wrong a few places. Check out our [notebook](link) if you want to learn more. The blue bars still account for what it is meant to be.
+> Disclaimer: The number of users that have been interacted with by others are skewed in this plot. The green bars could and should probably be a little bit higher, especially remarked in the bucket (0,10]. This is because the number of times a tweet is retweeted, quoted or replied to is wrong a few places. Check out our [notebook](https://github.com/haakonms/ADAproject/blob/master/Milestone3html.html) if you want to learn more. The blue bars still account for what it is meant to be.
 
 
 - Most users tweet under 500 times, but the difference is not is not very huge between users that have tweeted less than 500 times and users that have tweeted over 500 times.
